@@ -14,7 +14,7 @@
 				<td><input type="text"></td>
 			</tr>
 			<tr>
-				<td>±K½X</td>
+				<td>±K½X11</td>
 				<td><input type="password"></td>
 			</tr>
 			<input type="button" value="Login">
