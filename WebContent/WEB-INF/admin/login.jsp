@@ -6,16 +6,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>後台登入頁面</title>
 <script type="text/javascript">
-	form
-	{
 
-	}
 </script>
 </head>
 <link rel=stylesheet type="text/css" href="../CPBuy/css/style.css">
-<body>
-	<div class="admin">
-		<form id="baseform">
+<body class="admin" style="margin: auto;">
+<div class="header">後台登入頁面</div>
+	<div>
+		<form id="baseform" method="post" action="doLogin.action">
 			<table>
 				<tr>
 					<td>帳號</td>
@@ -26,9 +24,8 @@
 					<td><input name="password" type="password"></td>
 				</tr>
 				<tr>
-				<td>
-					<input type="button" value="Login" onclick="doLogin();">
-				</td>
+					<td><input type="submit" value="Login" onclick="doLogin();">
+					</td>
 				</tr>
 			</table>
 		</form>
