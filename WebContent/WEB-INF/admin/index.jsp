@@ -1,13 +1,13 @@
-<%@ page language="java" contentType="text/html; charset=BIG5"
-    pageEncoding="BIG5"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=BIG5">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
-	<p>³o¸Ì¬O«á­±</p>
-	<a href="toLogin">µn¤JÂI§Ú</a>
+	<p>é€™è£¡æ˜¯å¾Œé¢</p>
+	<a href="toLogin">ç™»å…¥é»æˆ‘</a>
 </body>
 </html>
