@@ -9,6 +9,7 @@
 	
 </script>
 </head>
+<script src="WebContent/CPBuy/css/style.css"></script>
 <body>
 	<div class="admin">
 		<form id="baseform">
