@@ -9,7 +9,7 @@
 	
 </script>
 </head>
-<script src="WebContent/CPBuy/css/style.css"></script>
+<link rel=stylesheet type="text/css" href="../CPBuy/css/style.css">
 <body>
 	<div class="admin">
 		<form id="baseform">
@@ -22,7 +22,11 @@
 					<td>密碼</td>
 					<td><input name="password" type="password"></td>
 				</tr>
-				<input type="button" value="Login" onclick="doLogin();">
+				<tr>
+				<td>
+					<input type="button" value="Login" onclick="doLogin();">
+				</td>
+				</tr>
 			</table>
 		</form>
 	</div>
